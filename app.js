@@ -1,7 +1,7 @@
 //Imports and variables
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const PORT = 8080;
 
 // Importing the controllers
 const urlController = require('./controllers/urlController');
